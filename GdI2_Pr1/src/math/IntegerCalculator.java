@@ -13,7 +13,9 @@ import core.IListElement;
  */
 public class IntegerCalculator extends Calculator {
 
-
+	public void toSomething(){
+		return;
+	}
 	/**
 	 * {@inheritDoc}
 	 */
