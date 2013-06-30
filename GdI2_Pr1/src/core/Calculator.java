@@ -52,7 +52,7 @@ public abstract class Calculator {
 	 * 
 	 * @throws IllegalArgumentException
 	 * 			throws an IllegalArgumentException if the left operand or right operand is no number
-	 * 			OR the operand sign is no SIGN_ADD
+	 * 			OR the operand sign is no SIGN_ADDblablablab
 	 * @see SIGN_ADD
 	 * @see IListElement
 	 */
