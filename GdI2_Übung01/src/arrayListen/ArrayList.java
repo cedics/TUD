@@ -1,7 +1,7 @@
 package arrayListen;
 
-import listPackage.List;
-import listPackage.ListItem;
+import listen.List;
+import listen.ListItem;
 
 public class ArrayList<T> {
 
